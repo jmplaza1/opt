@@ -1,8 +1,151 @@
 {
-"name": "Percentage Tax",
+"name": "Other Percentage Tax",
 			"url" : "",
-"details": "It is an excise tax imposed on the privilege to transfer property by way of gift inter vivos based on a pure act of liberality without any or less than adequate consideration and without any legal compulsion to give.",
+"details": "Business taxes covered by Title V of the NIRC of 1997, as amended, payable by any person or entity whose sale of goods or serices is not covered by the VAT system.",
 "children": [
+			{
+			"name": "Transactions covered by OPT",
+						"url" : "",
+			"details": "The following are subject to OPT under the NIRC:",
+			"children": [
+						{
+						"name": "Sale of goods or services of persons who are exempt from VAT under Section 109(1)(BB) of the Tax Code and who is not a VAT-registered person and whose gross annual sales or receipts fo not exceed P3M.",
+									"url" : "",
+						"details": "",
+						"children": [
 
+									]
+						},
+						{
+						"name": "Other kinds of business subject to the other percentage taxes under Title V of the NIRC of 1997, as amended, regardless of whether or not the gross annual receipts exceed P3M.",
+									"url" : "",
+						"details": "",
+						"children": [
+									{
+									"name": "Domestic Carriers by Land and Keepers of Garages",
+												"url" : "",
+									"details": "3% of quarterly gross receipts",
+									"children": [
+
+												]
+									},
+									{
+									"name": "International Carriers",
+												"url" : "",
+									"details": "3% of quarterly gross receipts",
+									"children": [
+
+												]
+									},
+									{
+									"name": "Franchise Grantees",
+												"url" : "",
+									"details": "They have the option to register as a VAT taxpayer. Once option is exercised, said option shall be irrevocable.",
+									"children": [
+												{
+												"name": "Radio and/or television broadcasting companies whose gross annual receipts of the preceeding year do not exceed 10M",
+															"url" : "",
+												"details": "3% of gross receipts derived from the business covered by the law granting franchise.",
+												"children": [
+
+															]
+												},
+												{
+												"name": "Gas and water Utilities",
+															"url" : "",
+												"details": "2% of gross receipts derived from the business covered by the law granting franchise.",
+												"children": [
+
+															]
+												}												
+												]
+									},
+									{
+									"name": "Overseas Dispatch, Message or Conversation Originating from the Philippines",
+												"url" : "",
+									"details": "",
+									"children": [
+
+												]
+									},
+									{
+									"name": "Banks and Non-bank financial intermediaries",
+												"url" : "",
+									"details": "",
+									"children": [
+
+												]
+									},
+									{
+									"name": "Other non-banking financial intermediaries",
+												"url" : "",
+									"details": "",
+									"children": [
+
+												]
+									},
+									{
+									"name": "Life Insurance Companies",
+												"url" : "",
+									"details": "",
+									"children": [
+
+												]
+									},
+									{
+									"name": "Agents of Foreign Insurance Companies",
+												"url" : "",
+									"details": "",
+									"children": [
+
+												]
+									},
+									{
+									"name": "Proprietors of Amusement Places",
+												"url" : "",
+									"details": "",
+									"children": [
+
+												]
+									},
+									{
+									"name": "Winnings",
+												"url" : "",
+									"details": "",
+									"children": [
+
+												]
+									},
+									{
+									"name": "Sale, barter or exchange of shares of stock listed and traded through the local stock exchange or through initial public offerings",
+												"url" : "",
+									"details": "",
+									"children": [
+
+												]
+									}	
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									]
+						}						
+						]
+			},
+			{
+			"name": "Nature of OPT",
+			"url" : "",
+			"details": "A tax on transaction and not on the articles sold, bartered or exchanged. It is an indirect tax which can be passed on to the buyer.",
+			"children": [
+
+												]
+									}	
+			
 			]
 }
