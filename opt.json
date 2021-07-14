@@ -63,7 +63,7 @@
 									{
 									"name": "Overseas Dispatch, Message or Conversation Originating from the Philippines",
 												"url" : "",
-									"details": "",
+									"details": "10% on the amount paid for such service. NOTE: The following are exempt from the 10% OPT: 1) government 2) diplomatic services 3) public international organization 4) news services",
 									"children": [
 
 												]
@@ -71,25 +71,94 @@
 									{
 									"name": "Banks and Non-bank financial intermediaries",
 												"url" : "",
-									"details": "10% on the amount paid for such service. NOTE: The following are exempt from the 10% OPT: 1) government 2) diplomatic services 3) public international organization 4) news services",
+									"details": "",
 									"children": [
+												{
+												"name": "Interest from lending acivities and income from financial leasing ",
+															"url" : "",
+												"details": "a. 5 years or less - 5%; b. More than 5 years - 1%",
+												"children": [
 
+															]
+												},
+												{
+												"name": "Dividends and Equity shares and Net Income of Subsidiaries",
+															"url" : "",
+												"details": "0%",
+												"children": [
+
+															]
+												},
+												{
+												"name": "Royalties, rental of property (real/personal), profits from exchange and all other items under Sec. 32 (Gross Income) of the NIRC.",
+															"url" : "",
+												"details": "7%",
+												"children": [
+
+															]
+												},
+												{
+												"name": "Net trading Gains within taxable year on foreign currency, debt securities, derivatives and other similar instruments",
+															"url" : "",
+												"details": "7%",
+												"children": [
+
+															]
+												}												
 												]
 									},
 									{
 									"name": "Other non-banking financial intermediaries",
 												"url" : "",
-									"details": "",
+									"details": "5% on the gross receipts derived from interest, discounts and all other items",
 									"children": [
+												{
+												"name": "Note: Except for interest from lending activities and income from financial leasing",
+															"url" : "",
+												"details": "which shall be taxes at: 5 years or less - 5%; more than 5 years - 1%",
+												"children": [
 
+															]
+												}
 												]
 									},
 									{
 									"name": "Life Insurance Companies",
 												"url" : "",
-									"details": "",
+									"details": "2% on the total premium collected, whether paid in money, notes, credits, or any substitute for money. NOTE: The following are not included in the taxable receipts",
 									"children": [
+												{
+												"name": "Premiums refunded within 6 months after payment on account of rejection of risk or other reason",
+												"url" : "",
+												"details": "",
+												"children": [
 
+															]
+												},
+												{
+												"name": "Reinsurance",
+															"url" : "",
+												"details": "where in tax has already been paid",
+												"children": [
+
+															]
+												},
+												{
+												"name": "Premiums collected by any branch of domestic corporation doing business outside the Philippines on account of any life insurance of a non-resident insured",
+															"url" : "",
+												"details": "if tax has already been imposed by foreign country",
+												"children": [
+
+															]
+												},
+												{
+												"name": "Premiums collected on variable contracts in excess of amounts necessary to insure lived of the variable contract workers",
+															"url" : "",
+												"details": "a. 5 years or less - 5%; b. More than 5 years - 1%",
+												"children": [
+
+															]
+												}												
 												]
 									},
 									{
